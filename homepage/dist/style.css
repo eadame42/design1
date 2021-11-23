@@ -28,3 +28,8 @@ body {
 .scroll-bound video {
   width: 50%;
 }
+
+@font-face{
+  font-family: "Yuji-Mai";
+src: url("YujiMai-Regular.ttf")
+}
